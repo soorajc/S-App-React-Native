@@ -1,2 +1,2 @@
-# SpaceX-App-React-Native
+# S-App-React-Native
 An app based on React Native for getting latest updates on SpaceX
