@@ -31,7 +31,7 @@ export default class SplashScreen extends Component<Props> {
 
   handleScreenSwitching() {
     const interval = 2000;
-    // setTimeout(() => this.launchHomeScreen(), interval);
+    setTimeout(() => this.launchHomeScreen(), interval);
   }
 
   launchHomeScreen() {
